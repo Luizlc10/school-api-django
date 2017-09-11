@@ -6,7 +6,7 @@ from students import views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^students/', views.StudentList.as_view()),
-    url(r'^students/(?P<id>\d+)/?$', views.StudentView.as_view()),
+    # url(r'^students/(?P<id>\d+)/?$', views.StudentView.as_view()),
 ]
 
 urlpatterns = urlpatterns
