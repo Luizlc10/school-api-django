@@ -1,3 +1,9 @@
+adium-theme-ubuntu==0.3.4
+unity-lens-photos==1.0
+vboxapi==1.0
+
+
+adium-theme-ubuntu==0.3.4
 dj-database-url==0.4.2
 dj-static==0.0.6
 Django==1.11.5
@@ -14,5 +20,6 @@ pytz==2017.2
 rsa==3.4.2
 six==1.10.0
 static3==0.7.0
+unity-lens-photos==1.0
 uritemplate==3.0.0
-vboxapi==1.0.0
+vboxapi==1.0
