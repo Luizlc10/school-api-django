@@ -1,0 +1,1 @@
+web: gunicorn school_grades.wsgi --log-file -
