@@ -15,4 +15,4 @@ rsa==3.4.2
 six==1.10.0
 static3==0.7.0
 uritemplate==3.0.0
-vboxapi==1.0
+vboxapi==1.0.0
